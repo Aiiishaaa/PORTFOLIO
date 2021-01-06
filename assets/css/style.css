@@ -296,7 +296,7 @@ h6 {
     font-size: 90px;
     background: url("https://78.media.tumblr.com/d04e0087197e1c553fb0ca2cdfd2d7b6/tumblr_pa42ioy7Fv1wpn6qzo1_540.gif");
     background-position: 20% 50%;
-    -webkit-background-clip: text;
+    background-clip: text;
     position: relative;
     line-height: 90px;
 }
@@ -377,7 +377,7 @@ section {
     color: transparent;
     background: url("http://24.media.tumblr.com/237a27e82fe2cfb1fa75a2c5b6499cae/tumblr_mfrw8uzH251r0493ho1_500.gif");
     background-position: 50% 50%;
-    -webkit-background-clip: text;
+    background-clip: text;
     position: relative;
     line-height: 90px;
 }
