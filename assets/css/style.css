@@ -296,7 +296,7 @@ h6 {
     font-size: 90px;
     background: url("https://78.media.tumblr.com/d04e0087197e1c553fb0ca2cdfd2d7b6/tumblr_pa42ioy7Fv1wpn6qzo1_540.gif");
     background-position: 20% 50%;
-    background-clip: text;
+    -webkit-background-clip: text;
     position: relative;
     line-height: 90px;
 }
