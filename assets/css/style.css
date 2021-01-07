@@ -377,7 +377,7 @@ section {
     color: transparent;
     background: url("http://24.media.tumblr.com/237a27e82fe2cfb1fa75a2c5b6499cae/tumblr_mfrw8uzH251r0493ho1_500.gif");
     background-position: 50% 50%;
-    background-clip: text;
+    -webkit-background-clip: text;
     position: relative;
     line-height: 90px;
 }
