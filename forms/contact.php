@@ -1,12 +1,12 @@
 <?php
   
-session_start();
-   include("./sendemail.php");
+   session_start();
+   include("sendemail.php");
 
 if(isset($_POST['submit'])){
 
       $name = htmlspecialchars($_POST["name"]);
-      $isValidname = !empty($name;
+      $isValidname = !empty($name);
 
       $email = htmlspecialchars($_POST["email"]);
       $isValidemail = !empty($email);
