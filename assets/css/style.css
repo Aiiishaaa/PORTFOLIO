@@ -1120,6 +1120,13 @@ section {
     margin: 0 0 5px 0;
 }
 
+.butterfly {
+    padding-top: 5px;
+    width: 100px;
+    height: 80px;
+    object-fit: cover;
+}
+
 #footer .credits {
     font-size: 13px;
 }
