@@ -891,6 +891,8 @@ section {
 }
 
 .hskills .react-reveal {
+    justify-content: center;
+    align-items: center;
     text-align: center;
     margin-left: 40px;
     transition: all ease-in-out 0.3s;
@@ -1015,13 +1017,9 @@ section {
     margin: 0 0 5px 0;
 }
 
-.butterfly {
+#footer .butterfly {
     padding-top: 5px;
     width: 100px;
     height: 80px;
     object-fit: cover;
-}
-
-#footer .credits {
-    font-size: 13px;
 }
