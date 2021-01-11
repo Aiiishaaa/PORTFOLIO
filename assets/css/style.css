@@ -959,6 +959,14 @@ section {
     color: #fff;
 }
 
+@media screen and (max-width: 768px) {
+    .contact .info h4 {
+        font-size: 20px;
+        margin-top: 1 25px;
+    }
+    ;
+}
+
 
 /*--------------------------------------------------------------
   # Footer
