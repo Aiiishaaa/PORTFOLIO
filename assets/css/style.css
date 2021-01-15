@@ -439,16 +439,11 @@ section {
     padding-right: .1em;
 }
 
-.apropos .content ul {
-    list-style: none;
-    padding: 0;
-}
-
-.apropos .content ul li {
+.apropos .content ul p {
     padding-bottom: 10px;
 }
 
-.apropos .content ul i {
+.apropos .content p i {
     font-size: 20px;
     padding-right: 2px;
     color: #ac2f4e;
