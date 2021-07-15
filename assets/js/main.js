@@ -147,7 +147,7 @@
         });
 
         $('#portfolio-flters li').on('click', function() {
-            $("#portfolio-flters li").removeClass('filter-active');
+            $("#portfolio-flters li").removClases('filter-active');
             $(this).addClass('filter-active');
 
             portfolioIsotope.isotope({
